@@ -1,2 +1,5 @@
 # github.io
-THIS IS A READ ME FILE
+
+### My GitHub Page 
+
+Using Font-Awesome, Bootstrap, and customized images
