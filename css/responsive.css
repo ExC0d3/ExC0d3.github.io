@@ -22,10 +22,6 @@
     #clients ul{float: none;}
     #clients h4 {display: none;}
     
-    /* PORTFOLIO SECTION */
-    #shotsByPlayerId li{width: 47%;}
-    #shotsByPlayerId li:first-child{width: 97%;}
-    
     .myphoto{text-align: center;}
 
     /*COLLUPSABLE NAVIGATION MENU*/
