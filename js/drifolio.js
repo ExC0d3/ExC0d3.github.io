@@ -1,6 +1,8 @@
 //==========================================================
 //Replace srizon with your dribbble username
 //==========================================================
+
+/*
 $.jribbble.getShotsByPlayerId('srizon', function (playerShots) {
     var html = [];
 
@@ -45,7 +47,7 @@ $(function() {
 
 });
 
-
+*/
 //========================
 //PRELOADER
 //========================
