@@ -2,4 +2,4 @@
 
 ### My GitHub Page 
 
-Using Font-Awesome, Bootstrap, and customized images
+Using Font-Awesome, Bootstrap, React & Redux and customized images
